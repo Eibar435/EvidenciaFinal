@@ -1,10 +1,11 @@
 # EvidenciaFinal
-Agendar citas
+**Agendar citas**
 
 ## Instalacion y Configuracion
 
 Es necesario tener Java 11 para su instalacion
 En caso de no tener Java 11, puede descargarlo dese el siguiente link https://www.oracle.com/mx/java/technologies/javase/jdk11-archive-downloads.html 
+Puede clonar el repositorio y colocarlo en git para poder descargar correctamente este programa.
 
 # Uso del Programa
 
